@@ -10,8 +10,8 @@ You play as a lone space pilot defending Earth from waves of alien invaders. Use
 
 - ✅ Full 3D environment with dynamic lighting and particle effects
 - 👾 Classic wave-based enemy spawns with increasing difficulty
-- 🛡️ Player movement with responsive controls and shooting mechanics
-- 💥 Explosion and hit effects for both player and enemies
+- 🛡️ Player movement with responsive controls and shooting mechanics that allow bullet collision
+- 💥 Hit effects for both player and enemies
 - 🎵 Sound effects and background music to enhance immersion
 - 🎯 Score system to track kills and high scores
 - 💡 Modular C# scripts and Unity components for scalability
@@ -20,9 +20,27 @@ You play as a lone space pilot defending Earth from waves of alien invaders. Use
 
 - **Engine**: Unity (2021+)
 - **Language**: C#
-- **Rendering**: Universal Render Pipeline (URP) *(if used)*
-- **Version Control**: Git / GitHub
 
-## 📂 Project Structure
+## 📂 Playing it for Yourself!
 
-*(To be completed: Add a summary of the main folders and files in the project)* 
+Due to size limitations, the full Unity project is too large to be pushed directly to GitHub.  
+You can download the complete project folder from the link below:
+
+👉 [Download Full Project (Google Drive)](https://drive.google.com/drive/folders/1KI7RuuQFg1z0kkrwJvY1C6078_LuzSZV?usp=sharing)
+
+
+## 🕹️ How to Play
+
+- **Controls**:
+  - Move: `A` / `D` or `Left Arrow` / `Right Arrow`
+  - Shoot: `Spacebar`
+
+- **Objective**: Destroy all alien invaders before they reach Earth. Watch out for incoming lasers!
+
+---
+
+Copyright (c) 2025 Yonas Asmelash
+
+This project is intended for demonstration and educational purposes only. 
+You may view the code, but you may not copy, modify, distribute, or use 
+any part of this project in your own work without explicit permission.
