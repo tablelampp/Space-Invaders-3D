@@ -5,7 +5,7 @@ A modern, 3D remake of the classic **Space Invaders** arcade game, developed in 
 ## 🎮 Gameplay Demo and Overview
 
 ### GIF Demo (Press Play)
-![# Demo](readme-assets/spaceInvadersDemo.gif)
+![# Demo](readme-assets\spaceInvadersDemo.gif)
 
 ### Overview
 
