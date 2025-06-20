@@ -93,5 +93,3 @@ sysinfo.txt
 # Ignore local configuration
 ignore.conf 
 
-# Large demo files
-readme-assets/spaceInvadersDemo.gif 
