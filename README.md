@@ -2,7 +2,12 @@
 
 A modern, 3D remake of the classic **Space Invaders** arcade game, developed in **Unity** using **C#**. This project brings the nostalgic gameplay into a 3D environment with enhanced graphics, sound effects, and scalable difficulty levels.
 
-## 🎮 Gameplay Overview
+## 🎮 Gameplay Demo and Overview
+
+### GIF Demo (Press Play)
+![# Demo](readme-assets/spaceInvadersDemo.gif)
+
+### Overview
 
 You play as a lone space pilot defending Earth from waves of alien invaders. Use your laser cannon to shoot down enemies before they reach the bottom of the screen. The enemies move in a pattern and gradually descend, increasing in speed over time.
 
@@ -18,7 +23,7 @@ You play as a lone space pilot defending Earth from waves of alien invaders. Use
 
 ## 🔧 Tech Stack
 
-- **Engine**: Unity (2021+)
+- **Engine**: Unity (2022+)
 - **Language**: C#
 
 ## 📂 Playing it for Yourself!
@@ -32,10 +37,10 @@ You can download the complete project folder from the link below:
 ## 🕹️ How to Play
 
 - **Controls**:
-  - Move: `A` / `D` or `Left Arrow` / `Right Arrow`
+  - Move: `A, B, C, D` or `Up Arrow, Down Arrow, Left Arrow, Right Arrow`
   - Shoot: `Spacebar`
 
-- **Objective**: Destroy all alien invaders before they reach Earth. Watch out for incoming lasers!
+- **Objective**: Destroy all alien invaders before they reach Earth and kill you. Watch out for incoming lasers!
 
 ---
 
